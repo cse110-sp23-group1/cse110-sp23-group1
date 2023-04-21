@@ -11,13 +11,13 @@
    - [Adarsh's GitHub](https://github.com/adarsh249)
 2. Christian Sulaiman - Leader
    - [Christian's GitHub](https://github.com/christiansulaiman)
-3. Parth Patel - Designer
+3. Parth Patel - Developer
    - [Parth's Github](https://github.com/parth4apple)
 4. Korey Ray - Planner
    - [Korey's GitHub](https://github.com/phentos)
 5. Larry Mei - Developer
    - [Larry's GitHub](https://github.com/lmeiucsd)
-6. Sam Wong - Developer
+6. Sam Wong - Developer/Designer
    - [Sam's GitHub](https://github.com/samw0627)
 7. Albert Ding - Developer
    - [Albert's GitHub](https://github.com/AlbertXDing)

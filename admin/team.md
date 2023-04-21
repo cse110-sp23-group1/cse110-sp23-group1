@@ -12,7 +12,7 @@
 2. Christian Sulaiman - Leader
    - [Christian's GitHub](https://github.com/christiansulaiman)
 3. Parth Patel - Designer
-   - [Parth's Github]()
+   - [Parth's Github](https://github.com/parth4apple)
 4. Korey Ray - Planner
    - [Korey's GitHub](https://github.com/phentos)
 5. Larry Mei - Developer

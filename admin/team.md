@@ -1,11 +1,11 @@
 # Johnny 10x
 ![](/admin/branding/image.png "Our team's logo")
 ## Team Values:
-    - Collaboration
-    - Respect
-    - Accountability
-    - Communication
-    - Trust
+    - Collaboration: Work together effectively and communicate openly to achieve common goals.
+    - Respect: Treat each other with respect and professionalism, regardless of differences in opinions.
+    - Accountability: Take responsibility for your work and be accountable to your team members.
+    - Communication: Clear communication must be maintained and everyone should be able to voice their concerns properly.
+    - Trust: Build and maintain trust among team members to foster a psychologically safe environment.
 ## Team Roster:
 1. Adarsh Patel - Leader
    - [Adarsh's GitHub](https://github.com/adarsh249)

@@ -1,4 +1,4 @@
-# 10x Powellpuff Girls
+# Johnny 10x
 ![](/admin/branding/image.png "Our team's logo")
 ## Team Values:
     - Collaboration

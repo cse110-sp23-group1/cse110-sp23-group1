@@ -24,4 +24,4 @@
 8. Salam Aboul Hosn - Developer
    - [Salam's GitHub](https://github.com/Salam-Aboul-Hosn)
 9.  Zed Siyed - Developer
-   - [Zed's GitHub](https://github.com/zsiyed)
+    - [Zed's GitHub](https://github.com/zsiyed)

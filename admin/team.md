@@ -1,4 +1,4 @@
-# Johnny 10x
+# Team Johnny 1
 ![](/admin/branding/image.png "Our team's logo")
 ## Team Values:
     - Collaboration: Work together effectively and communicate openly to achieve common goals.

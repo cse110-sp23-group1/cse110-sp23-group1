@@ -25,7 +25,7 @@ People who attended:
 - Review Roadmap for upcoming Milestones and assignments
 
 ### Decision Making
-- 
+- None
 ### Action Items
 | Done? | Item | Responsible | Due Date |
 | ---- | ---- | ---- | ---- |

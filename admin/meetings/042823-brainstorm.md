@@ -1,7 +1,7 @@
-# Meeting Minutes 4/24
+# Meeting Minutes 4/28
 ## Meeting Information
 **Team Name:** TEAM JOHNNY 1 <br />
-**Meeting Date/Time:** 4/24 18:00 <br />
+**Meeting Date/Time:** 4/24 4:00 <br />
 **Meeting Purpose:** Brainstorming Session 1 <br />
 **Meeting Location:** Discord <br />
 **Note Taker:** Sam Wong <br />
@@ -37,4 +37,4 @@ NA
 
 <hr>
 
-**Meeting Finished: 18:30**
+**Meeting Finished: 4:30**

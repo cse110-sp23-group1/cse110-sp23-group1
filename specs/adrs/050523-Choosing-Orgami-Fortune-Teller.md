@@ -1,49 +1,55 @@
 ---
-# Configuration for the Jekyll template "Just the Docs"
-parent: Decisions
-nav_order: 100
-title: ADR Template
+title: Choosing Oragami Fortune Teller
 
-# These are optional elements. Feel free to remove any of them.
-# status: {proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)}
-# date: {YYYY-MM-DD when the decision was last updated}
-# deciders: {list everyone involved in the decision}
-# consulted: {list everyone whose opinions are sought (typically subject-matter experts); and with whom there is a two-way communication}
-# informed: {list everyone who is kept up-to-date on progress; and with whom there is a one-way communication}
+status: accepted
+date: 2023-05-05 when the decision was last updated
+deciders: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
+consulted: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
+informed: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
 ---
-<!-- we need to disable MD025, because we use the different heading "ADR Template" in the homepage (see above) than it is foreseen in the template -->
-<!-- markdownlint-disable-next-line MD025 -->
-# {short title of solved problem and solution}
+# Choosing our style of Fortune Telling: The Oragami Fortune Teller
 
 ## Context and Problem Statement
+Problem: There are multiple different ways to tell a fortune. Many examples that come to mind include Tarot Cards, Tea Leaves, Magic 8 Balls, Astrology, Horoscopes, etc. We must choose the fortune teller of our liking that would best represent how we want to represent fortunes.
 
-{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story.
- You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
-
-<!-- This is an optional element. Feel free to remove. -->
 ## Decision Drivers
 
-* {decision driver 1, e.g., a force, facing concern, …}
+* Easy to implement
 * {decision driver 2, e.g., a force, facing concern, …}
 * … <!-- numbers of drivers can vary -->
 
 ## Considered Options
 
-* {title of option 1}
-* {title of option 2}
-* {title of option 3}
-* … <!-- numbers of options can vary -->
+* Health Tracking App
+* Stock Predicting App
+* Weather Predicting App
+* Magic 8 Ball
+* Astrology
+* Crystal Ball
+* Flipping a Coin
+* Tarot Cards
+* Palm Readers
+* Omikuji
+* Chinese sticks
+* Fortune Cookies
+* Oragami Fortune Teller
+* Chinese Zodiac Signs
+* Tea Leaves
+* Throwing Bones
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
-
+Chosen option: Oragami Fortune Teller.
+This option was chosen because it seemed to be a nostalgic choice among group members as many members have used these in elementary school to predict fortunes. We used to write 8 fortunes on the a piece of paper, fold it up, and ask our friends to play. In addition, the easy of implementation seemed to stand out to us. Other options would require skills or a database of fortunes out of scope for our knowledge.
+<!-- Add more here to why>
 <!-- This is an optional element. Feel free to remove. -->
 ### Consequences
 
-* Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-* Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
+* Good, because ease of implementation.
+* Good, because allows optional user customization of fortunes.
+* Good, because oragami fortune tellers are well known and people know how to use them.
+* Bad, because may not be as complex or as advanced of a project we want.
+* Bad, beacuse the UI might not be as easy to implement as we believe.
 * … <!-- numbers of consequences can vary -->
 
 <!-- This is an optional element. Feel free to remove. -->

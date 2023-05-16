@@ -1,4 +1,4 @@
-# Meeting Minutes 5/12
+# Meeting Minutes 5/15
 ## Meeting Information
 **Team Name:** TEAM JOHNNY 1 <br />
 **Meeting Date/Time:** 5/15 18:00 <br />
@@ -34,4 +34,4 @@ People who attended:
 
 <hr>
 
-**Meeting Finished: 17:00**
+**Meeting Finished: 19:03**

@@ -1,5 +1,5 @@
 ---
-title: Choosing Oragami Fortune Teller
+title: Choosing Origami Fortune Teller
 
 status: accepted
 date: 2023-05-05 when the decision was last updated
@@ -7,7 +7,7 @@ deciders: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Ze
 consulted: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
 informed: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
 ---
-# Choosing our style of Fortune Telling: The Oragami Fortune Teller
+# Choosing our style of Fortune Telling: The Origami Fortune Teller
 
 ## Context and Problem Statement
 Problem: There are multiple different ways to tell a fortune. Many examples that come to mind include Tarot Cards, Tea Leaves, Magic 8 Balls, Astrology, Horoscopes, etc. We must choose the fortune teller of our liking that would best represent how we want to represent fortunes.
@@ -32,14 +32,14 @@ Problem: There are multiple different ways to tell a fortune. Many examples that
 * Omikuji
 * Chinese sticks
 * Fortune Cookies
-* Oragami Fortune Teller
+* Origami Fortune Teller
 * Chinese Zodiac Signs
 * Tea Leaves
 * Throwing Bones
 
 ## Decision Outcome
 
-Chosen option: Oragami Fortune Teller.
+Chosen option: Origami Fortune Teller.
 This option was chosen because it seemed to be a nostalgic choice among group members as many members have used these in elementary school to predict fortunes. We used to write 8 fortunes on the a piece of paper, fold it up, and ask our friends to play. In addition, the easy of implementation seemed to stand out to us. Other options would require skills or a database of fortunes out of scope for our knowledge.
 <!-- Add more here to why>
 <!-- This is an optional element. Feel free to remove. -->
@@ -47,7 +47,7 @@ This option was chosen because it seemed to be a nostalgic choice among group me
 
 * Good, because ease of implementation.
 * Good, because allows optional user customization of fortunes.
-* Good, because oragami fortune tellers are well known and people know how to use them.
+* Good, because origami fortune tellers are well known and people know how to use them.
 * Bad, because may not be as complex or as advanced of a project we want.
 * Bad, beacuse the UI might not be as easy to implement as we believe.
 * … <!-- numbers of consequences can vary -->

@@ -13,74 +13,45 @@ title: ADR Template
 ---
 <!-- we need to disable MD025, because we use the different heading "ADR Template" in the homepage (see above) than it is foreseen in the template -->
 <!-- markdownlint-disable-next-line MD025 -->
-# {short title of solved problem and solution}
+# Decision to Stat Local-First
 
 ## Context and Problem Statement
 
 {Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story.
  You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
+ The team was faced with the option of using a live-updating, LLM based API as part of our fortune teller, in order to create a more 
+ dynamic and personalized response for the user. While this sounds like a desireable feature to have, we decided to stick to 
+ preset responses that the user can edit, making it such that we do not depend on any API to have predictions for the user. Our reason
+ for doing this is that in general, integrating an API allows more room for error, and failed get requests. Furthermore, LLM have lots
+ of room for error, and catching these errors in real time would be important and difficult to implement given our timeline.
 
 <!-- This is an optional element. Feel free to remove. -->
 ## Decision Drivers
 
-* {decision driver 1, e.g., a force, facing concern, …}
-* {decision driver 2, e.g., a force, facing concern, …}
-* … <!-- numbers of drivers can vary -->
+* Time Constraints: Any feature we consider including must fit our relatively short timeline. After consdering our number of weeks*team members*expected hours devoted to this project per week, it did not seem feasible to implement
+* Deterministic Output: LLM's are inherently non-deterministic in their outputs. While this allows for personalization, it adds a greater need for testing that does not seem worth it for the feature
 
 ## Considered Options
 
-* {title of option 1}
-* {title of option 2}
-* {title of option 3}
+* Keep a fully local-first approach and completely exlude any LLM based API's. User can input their out custom outputs.
+* Try to implement the feature using an LLM based API and have a backup set of locally stored responses if something goes wrong
+* Try to implement the feature using an LLM based API and try to catch and retry unexpected/undesired outputs
 * … <!-- numbers of options can vary -->
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
+Chosen option: Keep a fully local-first approach and completely exlude any LLM based API's, because
+its more important for us to establish a basic product within a timeline, and leave "nice to have" features
+if we finish early.
 
 <!-- This is an optional element. Feel free to remove. -->
 ### Consequences
 
-* Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-* Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
+* Good, because we have a more straight-forward design, implementation, and testing process
+* Bad, because we cannot automatically give user a more creatice output, they must input it themselves.
 * … <!-- numbers of consequences can vary -->
 
 <!-- This is an optional element. Feel free to remove. -->
 ## Validation
 
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
-
-<!-- This is an optional element. Feel free to remove. -->
-## Pros and Cons of the Options
-
-### {title of option 1}
-
-<!-- This is an optional element. Feel free to remove. -->
-{example | description | pointer to more information | …}
-
-* Good, because {argument a}
-* Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-* Neutral, because {argument c}
-* Bad, because {argument d}
-* … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-* Good, because {argument a}
-* Good, because {argument b}
-* Neutral, because {argument c}
-* Bad, because {argument d}
-* …
-
-<!-- This is an optional element. Feel free to remove. -->
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
- document the team agreement on the decision and/or
- define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
- how the decision is validated.
- Links to other decisions and resources might here appear as well.}
+This decision was discussed and agreed upon by the whole team in our planning phase.

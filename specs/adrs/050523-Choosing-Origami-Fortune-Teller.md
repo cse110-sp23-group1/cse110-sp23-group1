@@ -2,10 +2,10 @@
 title: Choosing Origami Fortune Teller
 
 status: accepted
-date: 2023-05-05 when the decision was last updated
-deciders: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
-consulted: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
-informed: Team Johnny 1: Adarsh, Christian, Sam, Albert, Korey, Parth, Salam, Zed, Larry
+date: 2023-05-05
+deciders: all
+consulted: all
+informed: all
 ---
 # Choosing our style of Fortune Telling: The Origami Fortune Teller
 

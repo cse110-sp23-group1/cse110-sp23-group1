@@ -15,8 +15,8 @@ Problem: There are multiple different ways to tell a fortune. Many examples that
 ## Decision Drivers
 
 * Easy to implement
-* {decision driver 2, e.g., a force, facing concern, …}
-* … <!-- numbers of drivers can vary -->
+* Interesting choice that is is not similar to other fortune tellers
+* Attractive enough for potential users to want to use our app
 
 ## Considered Options
 
@@ -40,7 +40,7 @@ Problem: There are multiple different ways to tell a fortune. Many examples that
 ## Decision Outcome
 
 Chosen option: Origami Fortune Teller.
-This option was chosen because it seemed to be a nostalgic choice among group members as many members have used these in elementary school to predict fortunes. We used to write 8 fortunes on the a piece of paper, fold it up, and ask our friends to play. In addition, the easy of implementation seemed to stand out to us. Other options would require skills or a database of fortunes out of scope for our knowledge.
+This option was chosen because it seemed to be a nostalgic choice among group members as many members have used these in elementary school to predict fortunes. We used to write 8 fortunes on the a piece of paper, fold it up, and ask our friends to play. In addition, the easy of implementation seemed to stand out to us. Other options would require skills or a database of fortunes out of scope for our knowledge. Finally, the nostalgic element also comes in play when attracting potential users to try our app out. Since we found that this implementation is not so common, it would also help to make our app unique.
 <!-- Add more here to why>
 <!-- This is an optional element. Feel free to remove. -->
 ### Consequences
@@ -50,43 +50,9 @@ This option was chosen because it seemed to be a nostalgic choice among group me
 * Good, because origami fortune tellers are well known and people know how to use them.
 * Bad, because may not be as complex or as advanced of a project we want.
 * Bad, beacuse the UI might not be as easy to implement as we believe.
-* … <!-- numbers of consequences can vary -->
+<!-- numbers of consequences can vary -->
 
 <!-- This is an optional element. Feel free to remove. -->
 ## Validation
 
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
-
-<!-- This is an optional element. Feel free to remove. -->
-## Pros and Cons of the Options
-
-### {title of option 1}
-
-<!-- This is an optional element. Feel free to remove. -->
-{example | description | pointer to more information | …}
-
-* Good, because {argument a}
-* Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-* Neutral, because {argument c}
-* Bad, because {argument d}
-* … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-* Good, because {argument a}
-* Good, because {argument b}
-* Neutral, because {argument c}
-* Bad, because {argument d}
-* …
-
-<!-- This is an optional element. Feel free to remove. -->
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
- document the team agreement on the decision and/or
- define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
- how the decision is validated.
- Links to other decisions and resources might here appear as well.}
+This decision was discussed and agreed upon by the whole team in our brainstorming activity.

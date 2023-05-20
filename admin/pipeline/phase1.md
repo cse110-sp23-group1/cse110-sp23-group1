@@ -1,6 +1,6 @@
 # Pipeline Status
 
-![](phase1.png)
+![](admin/pipeline/phase1.png)
 
 ## Functional:
 - Automation workflow for testing (GitHub action)

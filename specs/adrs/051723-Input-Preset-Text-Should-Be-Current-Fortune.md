@@ -1,86 +1,39 @@
 ---
-# Configuration for the Jekyll template "Just the Docs"
-parent: Decisions
-nav_order: 100
-title: ADR Template
-
-# These are optional elements. Feel free to remove any of them.
-# status: {proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)}
-# date: {YYYY-MM-DD when the decision was last updated}
-# deciders: {list everyone involved in the decision}
-# consulted: {list everyone whose opinions are sought (typically subject-matter experts); and with whom there is a two-way communication}
-# informed: {list everyone who is kept up-to-date on progress; and with whom there is a one-way communication}
+title: Input Preset Text Should Be Current Fortune
+status: accepted
+date: 2023-05-17
+deciders: Full Team
+consulted: Full Team
+informed: Full Team
 ---
-<!-- we need to disable MD025, because we use the different heading "ADR Template" in the homepage (see above) than it is foreseen in the template -->
-<!-- markdownlint-disable-next-line MD025 -->
-# {short title of solved problem and solution}
+# Input Preset Text as Current Fortune
 
 ## Context and Problem Statement
 
-{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story.
- You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
+Currently, a user will be given 8 boxes on a sidebar, such that each box has a preset input. However, a user can click on a box and change the input so that when they run the fortune teller, they can have one of their inputs be one of the possible fortunes in the end. Problem is simply deciding what method would be best for the user when they try to change the input presets. Should the textbox they click to change the input show an empty preset, a preset of the old edit they made, a preset of the current fortune, or something else?
 
-<!-- This is an optional element. Feel free to remove. -->
 ## Decision Drivers
 
-* {decision driver 1, e.g., a force, facing concern, …}
-* {decision driver 2, e.g., a force, facing concern, …}
-* … <!-- numbers of drivers can vary -->
+* User should be certain of which input they are changing.
+* Intuitively, what would make the most sense.
+* Many other programs with presets would show you the current thing you are editing.
 
 ## Considered Options
 
-* {title of option 1}
-* {title of option 2}
-* {title of option 3}
-* … <!-- numbers of options can vary -->
+* Empty Preset
+* Preset of the Most Recent Edit
+* Preset of Current Fortune
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because
-{justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
+Chosen option: Preset of current fortune was chosen because intuitively, it would make the most sense. When you normally go back to edit some text, for example, a document or a username or password, the text remains the same and you edit on it, therefore, it would not make sense to have an empty preset. Putting the preset of the most recent edit would confuse the user about which fortune they are editing, thus, it would make the most sense to use the preset of current fortune.
 
-<!-- This is an optional element. Feel free to remove. -->
 ### Consequences
 
-* Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-* Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-* … <!-- numbers of consequences can vary -->
+* Good, because user will know which fortune they are editing.
+* Good, because user will be used to this kind of preset since that is what other programs across the web do.
+* Bad, because implementation might become a little more complicated.
 
-<!-- This is an optional element. Feel free to remove. -->
 ## Validation
 
-{describe how the implementation of/compliance with the ADR is validated. E.g., by a review or an ArchUnit test}
-
-<!-- This is an optional element. Feel free to remove. -->
-## Pros and Cons of the Options
-
-### {title of option 1}
-
-<!-- This is an optional element. Feel free to remove. -->
-{example | description | pointer to more information | …}
-
-* Good, because {argument a}
-* Good, because {argument b}
-<!-- use "neutral" if the given argument weights neither for good nor bad -->
-* Neutral, because {argument c}
-* Bad, because {argument d}
-* … <!-- numbers of pros and cons can vary -->
-
-### {title of other option}
-
-{example | description | pointer to more information | …}
-
-* Good, because {argument a}
-* Good, because {argument b}
-* Neutral, because {argument c}
-* Bad, because {argument d}
-* …
-
-<!-- This is an optional element. Feel free to remove. -->
-## More Information
-
-{You might want to provide additional evidence/confidence for the decision outcome here and/or
- document the team agreement on the decision and/or
- define when this decision when and how the decision should be realized and if/when it should be re-visited and/or
- how the decision is validated.
- Links to other decisions and resources might here appear as well.}
+This decision was discussed and agreed upon by the whole team in #future-110-project in Slack. Majority (basically unanimous) votes asked to have the preset be of the current fortune.

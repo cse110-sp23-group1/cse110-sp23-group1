@@ -1,18 +1,14 @@
 ---
-parent: Decisions
-nav_order: 100
-title: ADR Template
-
-# status: accepted
-# date: 2023-05-17
-# deciders: Full Team
-# informed: Full team
+title: Refusing Live Updating
+status: accepted
+date: 2023-05-17
+deciders: Full Team
+informed: Full team
 ---
 
 # Decision to Stat Local-First
 
 ## Context and Problem Statement
-
 
  The team was faced with the option of using a live-updating, LLM based API as part of our fortune teller, in order to create a more 
  dynamic and personalized response for the user. While this sounds like a desireable feature to have, we decided to stick to 

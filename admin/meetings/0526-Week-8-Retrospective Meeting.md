@@ -35,7 +35,6 @@ People who attended:
 ### Action Items
 | Done? | Item | Responsible | Due Date |
 | ---- | ---- | ---- | ---- |
-| | Populare Issues for Week 7 sprint | Everyone | 5/14 |
 
 <hr>
 

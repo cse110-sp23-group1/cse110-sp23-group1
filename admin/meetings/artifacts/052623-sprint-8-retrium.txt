@@ -1,0 +1,79 @@
+Retrium Retrospective, May 26, 2023
+Technique: Mad, Sad, Glad
+===================================
+Link: https://app.retrium.com/team-room/ed310a8d-1243-4fe7-8475-79cf6ce87dcc/history/e307ce11-8eb8-40b5-a82f-bd602e012866
+Mad
+---
+What frustrated you or what were you angry about in the week 8 sprint?
+
+- Organization (4 votes)
+    - Everyone's roles was not as clear so it is easy to get lost while trying to take on issues
+    - we need to do better to incrementally work and merge stuff in so that main doesnt just have a blankish page
+
+- Productivity (4 votes)
+    - Frustrated wasn't able to get much done because of other midterms and hw.
+    - very little got done
+    - We are making progress pretty slowly
+    - Time constraints in leads to lack of productivity
+    - I took way too long to implement something simple.
+
+- 101 Midterm (1 vote)
+    - mad i couldn't work on it more because of midterms
+    - not being able to get much done myself
+    - 101 Midterm happening late in the week.
+
+
+Sad
+---
+What were you disappointed or sad about in the week 8 sprint?
+
+- Behind on our Own Progress (7 votes)
+    - disappointed we didn't make more progress on it this week, BUT THE SPRINT ENDS SUNDAY
+    - we seem to all have had midterms this past week so there was less progress than there ideally should have been
+    - Progress was not as far as we thought
+    - Being behind on our website's progress
+
+- Behind compared to other group's progress (2 votes)
+    - TA said we're behind
+    - sad Malcolm told us we're behind.
+    - falling behind compared to other groups
+
+- Coordination and Productivity (8 votes)
+    - We were not as productive as other weeks.
+    - not much coordination attempted
+    - Wanted to contribute, but wasn't able to 
+
+- Technical Challenges (4 votes)
+    - The code I implemented isn't great
+    - We are reaching a point where I feel like I'm lacking experience/knowledge
+    - CI/CD pipeline implementation was not as smooth
+
+
+Glad
+----
+What do you think went well or were happy about in the week 8 sprint?
+
+- Fixed SVG issue(s) (0 votes)
+    - Fixing issues with svgs
+    - have a plan to attack the svg core and get it done
+
+- Management (3 votes)
+    - Our management has been pretty solid
+    - we are properly doing software engineering, even at a slower pace it's still good
+    - We got started on the CI/CD pipeline
+    - glad about our project management/issues organization
+
+- Progress (1 vote)
+    - some progress at least
+    - Able to get some progress done as a team. Hopefully I can contribute to the next sprint
+    - Korey gave me some advice on how to improve my code
+
+- Optimism (2 votes)
+    - Everyone has a good attitude despite our holdbacks
+    - Optimism about week 9 sprint and what we can accomplish.
+
+
+Wrap-Up
+=======
+
+With 9 total votes, participants gave this retro an average rating of 4.

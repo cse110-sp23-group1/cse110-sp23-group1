@@ -32,4 +32,4 @@ Chosen option: Saving on the custom fortune changing or loading was the better d
 
 ## Validation
 
-This decision was discussion and agreed upon by the whole team during the weekly meeting and 
+This decision was discussion and agreed upon by the whole team during the weekly meeting and in the sprint channel in Slack.

@@ -16,7 +16,7 @@ People who attended:
 - Larry Mei
 - Adarsh Patel
 - Parth Patel
-- Salam
+- Zed
 
 ## Agenda
 ### Old Businessses

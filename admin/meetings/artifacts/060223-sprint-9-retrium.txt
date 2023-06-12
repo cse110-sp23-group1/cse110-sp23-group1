@@ -1,0 +1,73 @@
+Retrium Retrospective, June 2, 2023
+Technique: Mad, Sad, Glad
+===================================
+
+Mad
+---
+Add notes about frustrations with Week 9 Sprint
+
+- Not as Mad (1 vote)
+    - Not mad about anything specific I liked how this sprint went. And glad we implemented the assigning issues to people since it helped me get some work done.
+    - Not too upset about anything really this sprint went well in my opinion. (from SAD)
+
+- Time (0 votes)
+    - still a little behind than I would like but on the right track.
+    - Had less time this week to work on code
+    - i didn't have time to be involved (from SAD)
+- development was very chaotic, not much planning done/documented for SVG in advance (1 vote)
+
+Sad
+---
+Add notes about disappointment with Week 9 Sprint
+
+- Testing (12 votes)
+    - no tests
+    - lack of testing implementation when testing is a big part of our project
+    - Not much testing done yet (from MAD)
+    - More work could possibly be done on Testing
+
+- Code Quality (7 votes)
+    - We still have a lot of work to do and only one more week
+    - Our code is hard to read and our file structure is poor
+    - Code quality might not be the best
+    - code didnt work
+
+- UI is dry (8 votes)
+    - sad about how the UI of our fortune teller looks, could use some CSS
+    - our app looks empty, lot of whitespace and little content
+
+
+Glad
+----
+Add notes about anything that went well with Week 9 Sprint.
+
+- Status Video 1 (0 votes)
+    - Our video was used
+    - Our Video
+    - glad our status video made it in class lol
+
+- Teamwork (3 votes)
+    - Team is optimistic about being able to finish project
+    - Communication went well, feel like everyone replied in a very quick manner
+    - This week we did pairing/grouping and it seemed pretty efficient
+    - Really enjoyed this sprint since I was able to get some work done this week. Think this sprint went a lot better for me personally and project is looking pretty good!
+
+- Debugging (1 vote)
+    - code that didn't work is an easy fix, did an okay-ish job on my task overall
+    - glad we got rid of hover bugs
+
+- Progress (3 votes)
+    - Getting a lot done
+    - so much work
+    - Significantly better progress than last week
+    - Made good progress this week
+    - We are almost done with project
+    - glad we got majority of svg functionality done
+    - Basic functionality finished!
+    - glad we have a working prototype
+
+
+Wrap-Up
+=======
+
+With 9 total votes, participants gave this retro an average rating of 3.7777777777777777.

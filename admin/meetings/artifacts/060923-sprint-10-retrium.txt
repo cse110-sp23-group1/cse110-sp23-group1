@@ -1,0 +1,92 @@
+Retrium Retrospective, June 9, 2023
+Technique: 4Ls
+===================================
+
+Liked
+-----
+Add notes about what you or your team enjoyed about this quarter. In particular, what went better than expected? Emphasize the positive.
+
+- App Quality (5 votes)
+    - like the process of creating the app
+    - Our app is fully working and looks pretty good
+    - Final app looks great
+    - end product what i expected
+    - We have a functioning webpage + proper CI/CD integration
+    - We finished the basic functionality for the origami
+    - a useful product (from LONGED FOR)
+
+- Besties for the Resties (4 votes)
+    - Team chemistry was good
+    - fast and easy communication
+    - meeting most of you guys
+    - What I liked was the meetings thought they were good everybody attended. Mostly good attitude from everybody and ambition to learn new things. 
+- kept a reasonable scope for the project (no feature hell) (0 votes)
+
+Learned
+-------
+Add notes about what new things you or your team learned during this quarter. These can be technical or nontechnical.
+
+- Soft Skills (3 votes)
+    - communication is by far the most important factor
+    - learned a lot of non technical SWE skills
+    - How to manage a large team using tools like Projects, Issues
+
+- GitHub (6 votes)
+    - Learned github work flow and what it's like working on a team. 
+    - Learned how to use GitHub actions and workflows
+    - learned project management on github and making issues, linking issues, closing them
+    - learned how to make PRs and merge them
+    - learned how to properly use github and git commands
+    - using the forked repo to test stuff (from LIKED)
+
+- Web Dev Tools (4 votes)
+    - Javascript, HTML, and CSS exist
+    - learned a lot of javascript
+    - Basic Javascript
+    - Got more exposed to javascript, testing, etc.
+    - how to use service workers
+    - was cool learning javascript (from LIKED)
+
+- Agile and SWE (1 vote)
+    - Learned more about how Agile works
+    - CI/CD Pipelines
+    - simple changes still cause bugs
+
+
+Lacked
+------
+Add notes about the things you or your team could have done better during this quarter.
+
+- Team (3 votes)
+    - argued too much about scope irrelevant details
+    - team chemistry
+    - None we are perfect
+    - focused on the wrong things at times
+    - Most people on our team lacked Web Dev Competency
+    - 
+    -  (from LONGED FOR)
+    - a smaller group (from LONGED FOR)
+
+- Code Quality (6 votes)
+    - Code quality
+    - Our code is a bit messy
+    - better coordination with regards to writing code
+    - We could've had cleaner code in JS, but this may be due to us having lack of experience in coding with JS.
+    - Utilizing more frameworks and libraries (from LONGED FOR)
+- i work pretty slow (0 votes)
+- doing better to compartmentalize file structure so that simultaneous development doesnt always lead to merge conflicts (1 vote)
+
+Longed For
+----------
+Add notes about the things you or your team desired to have during the quarter that were not available. These can be technical or nontechnical.
+
+- More time (1 vote)
+    - More time
+    - more time
+- Refactor code and add more features like sound effects to origami animation, etc (1 vote)
+- Finishing the basic functionalities earlier so that we have more time polishing our prototype (1 vote)
+
+Wrap-Up
+=======
+
+With 2 total votes, participants gave this retro an average rating of 3.

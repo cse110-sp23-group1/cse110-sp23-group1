@@ -1,6 +1,6 @@
 # Pipeline Status
 
-![](/admin/pipeline/phase2.png)
+![](phase2.png)
 
 ## Functional:
 - Lint and code style enforcement (run `npm lint-fix` in editor).
